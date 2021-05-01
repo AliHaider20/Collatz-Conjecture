@@ -1,2 +1,2 @@
 # Collatz-Conjecture
-Collatz Conjecture in Maths
+Collatz Conjecture from Mathematics.
