@@ -7,4 +7,4 @@ def collatz_conjecture(num):
             num=num*3+1
         nums.append(num)
 num = int(input())
-collatz_conjecture(num)
+print(collatz_conjecture(num))
