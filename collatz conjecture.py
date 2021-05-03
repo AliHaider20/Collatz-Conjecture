@@ -6,5 +6,6 @@ def collatz_conjecture(num):
         else:
             num=num*3+1
         nums.append(num)
+    return nums
 num = int(input())
 print(collatz_conjecture(num))
